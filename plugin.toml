@@ -1,0 +1,4 @@
+[plugin]
+description = "Save git info to a file during build"
+version = "0.0.1"
+[plugin.config]
